@@ -1,7 +1,4 @@
-#Mostrar qual o site(s) utilizou * Steam lista dos mais populares
-#Qual algoritmo de ordenação e por quê escolheu * Heapsort usando heapmin pq a gente ordenou em ordem crescente
-#Qual linguagem de programação usou
-#Qual biblioteca utilizada e por quê 
+Yasser e Carlos Mohr
 
 import os # Manipular arquivos
 import heapq # Heapsort importado
